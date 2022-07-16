@@ -215,5 +215,3 @@ console.log(2+5)
 
 //na kaleseis function - edw kalo to add function apo pio panw kai stelno ta noumera 2 kai 10 sto function
 console.log(iAmAdding(2, 10))
-
-console.log('Testing git')
