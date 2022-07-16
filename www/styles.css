@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#paragraph{
+    background-color: aqua;
+    color: brown;
+}
+
+#outerDiv{
+    text-align: center;
+}
+
+#innerDiv{
+    text-align: left;
+}

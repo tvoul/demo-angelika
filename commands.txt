@@ -1,0 +1,12 @@
+Backend Commands
+
+npm init
+npm install express
+
+npm install
+
+Git Commands
+git status
+git add . (the dot means add all)
+git commit -m "type your commit message here"
+git push -u origin main (or substitute branch name)
